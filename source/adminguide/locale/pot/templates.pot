@@ -553,7 +553,7 @@ msgstr ""
 
 #: ../../templates.rst:522
 # 1db89306e7ae4b99b486fb9d7c783da4
-msgid "You are now ready to create the template, for more information see `“Creating a Template from an Existing Virtual Machine” <#creating-a-template-from-an-existing-virtual-machine>`_."
+msgid "You are now ready to create the Final Template, for more information see :ref:`creating-a-template-from-an-existing-virtual-machine`."
 msgstr ""
 
 #: ../../templates.rst:527
